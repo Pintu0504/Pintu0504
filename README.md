@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pintu kumar
+- 🌱 I’m currently Working as MTS@Oracle in Cloud Infrastructure.
+- 👀 I’m interested in Full stack Web development using MERN stack.
+- 💞️ I’m currently learning Spring boot using Java, DevOps, Kubernetes.
+- 📫 You can reach out to me- pin205kmr@gmail.com
